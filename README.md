@@ -2,7 +2,7 @@
 
 👀 I’m interested on how to use data.
 
-👩‍💻 My personal blog is https://celiamuriel.blogspot.com/
+👩‍💻 My personal blog is celiamuriel.com
 
 📫 You can leave a message here if you want to talk with me.
 
