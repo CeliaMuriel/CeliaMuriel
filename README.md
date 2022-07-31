@@ -4,7 +4,7 @@
 
 👩‍💻 My personal blog is <a href="http://celiamuriel.com/" target="_blank" rel="noopener">celiamuriel.com</a>
 
-All my contents are Copyleft both here and in my blog. All rights are reversed. Reuse what you like, and please, do not restrict access to the derivative work.
+🖨 All my contents are Copyleft both here and in my blog. All rights are reversed. Reuse what you like, and please, preserve the same rights in derivative works.
 
 📫 You can leave a message here if you want to talk with me.
 
