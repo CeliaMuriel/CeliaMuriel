@@ -2,7 +2,7 @@
 
 👀 I’m interested on how to use data.
 
-👩‍💻 My personal blog is <a href="http://celiamuriel.com/" target="_blank" rel="noopener">celiamuriel.com</a>
+👩‍💻 My personal blog is <a href="https://celiamuriel.com/" target="_blank" rel="noopener">celiamuriel.com</a>
 
 🖨 All my contents are Copyleft both here and in my blog. All rights are reversed. Reuse what you like, and please, preserve the same rights in derivative works.
 
